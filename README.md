@@ -41,10 +41,6 @@ https://aryan456-coder.github.io/Procastinot-Todo-App/
 
 > <img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/bae7cf86-a98b-4295-8a78-d441cabd59ec" />
 
-```md
-assets/screenshot-1.png
-assets/screenshot-2.png
-```
 
 ---
 
